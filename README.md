@@ -1,2 +1,2 @@
 # YoutubeControls
-To send YouTube shortcuts from another window
+To send YouTube shortcuts from another window.
