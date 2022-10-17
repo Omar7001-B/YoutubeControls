@@ -4,7 +4,7 @@ Sending Youtube shortcuts form another window
 
 ## About
 
-This script is made with [AutoHotKey](https://www.autohotkey.com/), This script simply re-maps <kbd>Win</kbd>+<kbd>&larr;</kbd>
+This script is made with [AutoHotKey](https://www.autohotkey.com/), This script simply re-maps <kbd>Alt</kbd>+<kbd>Tab</kbd>+<kbd>YoutubeShortCut</kbd>
 Here I added something new
 
 then adding new things on line 7
