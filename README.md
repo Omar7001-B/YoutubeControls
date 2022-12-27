@@ -13,6 +13,8 @@ You may have the whitebaord running on the next half while watching the YT video
 Sometimes you need to pause the video to do what you've watched, so instead fo clicking <kbd>Alt+Tab</kbd> then <kbd>Space</kbd> then <kbd>Alt+Tab</kbd> again, You can just click one key <kbd>F1</kbd>
 
 <kbd>F1</kbd> Pauses The Video
+
 <kbd>F2</kbd> Rewinds The Video 5 Seconds
+
 <kbd>F2</kbd> Forwards The Video 5 Seconds
 
