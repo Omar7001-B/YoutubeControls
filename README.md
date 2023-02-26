@@ -12,9 +12,16 @@ I found this program so useful and time saver while watching youtube in the spli
 You may have the whitebaord running on the next half while watching the YT video to save notes, or following some tutorials
 Sometimes you need to pause the video to do what you've watched, so instead fo clicking <kbd>Alt+Tab</kbd> then <kbd>Space</kbd> then <kbd>Alt+Tab</kbd> again, You can just click one key <kbd>F1</kbd>
 
-<kbd>F1</kbd> Pauses The Video
+-   <kbd>F1</kbd> Pauses The Video
+-   <kbd>F2</kbd> Rewinds The Video 5 Seconds
+-   <kbd>F2</kbd> Forwards The Video 5 Seconds
+-   <kbd>Window</kbd>+<kbd>k</kbd> to Pause 
+-   <kbd>Window</kbd>+<kbd>j</kbd> to Rewind the video 10 seconds and <kbd>Window</kbd>+<kbd>l</kbd> to forward the video 5 seconds.
+-   <kbd>F2</kbd> to rewind the video 5 seconds and <kbd>F3</kbd> to fast forward the video 5 seconds.
+-   <kbd>Window</kbd>+<kbd>a</kbd> to rewind the video 5 seconds and <kbd>Window</kbd>+<kbd>d</kbd> to forward the video 5 seconds.
+-   <kbd>F6</kbd> to rewind the video 1 second and <kbd>F7</kbd> to fast forward the video 1 second.
+-   <kbd>Window</kbd>+<kbd>z</kbd> to rewind the video 1 second and <kbd>Window</kbd>+<kbd>x</kbd> to fast forward the video 1 second.
+-   <kbd>Window</kbd>+<kbd>e</kbd> to speed up the video and <kbd>#</kbd>+<kbd>q</kbd> to slow down the video.
+-   <kbd>Window</kbd>+<kbd>c</kbd> to show the video subtitle
 
-<kbd>F2</kbd> Rewinds The Video 5 Seconds
-
-<kbd>F2</kbd> Forwards The Video 5 Seconds
 
