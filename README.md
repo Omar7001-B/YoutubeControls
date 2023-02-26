@@ -20,8 +20,27 @@ Sometimes you need to pause the video to do what you've watched, so instead fo c
 -   <kbd>F2</kbd> to rewind the video 5 seconds and <kbd>F3</kbd> to fast forward the video 5 seconds.
 -   <kbd>Window</kbd>+<kbd>a</kbd> to rewind the video 5 seconds and <kbd>Window</kbd>+<kbd>d</kbd> to forward the video 5 seconds.
 -   <kbd>F6</kbd> to rewind the video 1 second and <kbd>F7</kbd> to fast forward the video 1 second.
--   <kbd>Window</kbd>+<kbd>z</kbd> to rewind the video 1 second and <kbd>Window</kbd>+<kbd>x</kbd> to fast forward the video 1 second.
--   <kbd>Window</kbd>+<kbd>e</kbd> to speed up the video and <kbd>#</kbd>+<kbd>q</kbd> to slow down the video.
+-   <kbd>Window</kbd>+<kbd>z</kbd> to rewind the video 1 second and <kbd>Window</kbd>+<kbd>x</kbd> to forward the video 1 second.
+-   <kbd>Window</kbd>+<kbd>e</kbd> to speed up the video and <kbd>Window</kbd>+<kbd>q</kbd> to slow down the video.
 -   <kbd>Window</kbd>+<kbd>c</kbd> to show the video subtitle
 
+
+## Video Speed Controller Exntension Settings
+| Function             | Keyboard Shortcut | Speed |
+|----------------------|-------------------|-------|
+| Show/hide controller | V                 | 0     |
+| Decrease Speed       | Q                 | 0.1   |
+| Increase Speed       | E                 | 0.1   |
+| Rewind               | A                 | 5     |
+| Advance              | D                 | 5     |
+| Rewind               | \[                | 10    |
+| Advance              | ]                 | 10    |
+| Rewind               | Z                 | 1     |
+| Advance              | X                 | 1     |
+| Pause                | G                 | 0     |
+| Pause                | K                 | 0     |
+| Reset Speed          | R                 | 1     |
+| Preferred speed      | G                 | 1.8   |
+| Preferred speed      | W                 | 16    |
+| Reset speed          | S                 | 1     |
 
